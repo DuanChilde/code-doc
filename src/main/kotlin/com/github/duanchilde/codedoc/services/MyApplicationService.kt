@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.duanchilde.codedoc.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.duanchilde.codedoc.MyBundle
 
 class MyApplicationService {
 
